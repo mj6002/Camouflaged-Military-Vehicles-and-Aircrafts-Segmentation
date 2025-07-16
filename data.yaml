@@ -1,0 +1,10 @@
+names:
+  0: person
+  1: soldier
+  2: sniper
+  3: tank
+  4: aircraft
+  5: military_vehicle
+path: D:/Projects_folder/Object_Segmentation
+train: images/train
+val: images/val
