@@ -1,6 +1,6 @@
 # Camouflaged Military Vehicles and Aircrafts Segmentation using YOLOv11
 
-This project implements object detection and segmentation for Camouflaged military vehicles and Aircrafts using YOLOv11. The implementation includes dataset preparation, model training, and inference scripts.
+This project implements object detection and segmentation for camouflaged military vehicles and aircrafts using YOLOv11. The implementation includes dataset preparation, model training, and inference scripts.
 
 ## Project Structure
 
